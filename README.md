@@ -2,7 +2,7 @@
 Using pixels in p5.js
 # Mandelbrot Set 2
 Using basic stroke() in p5.js
-# Mandelbrot Set 1
+# Mandelbrot Set 3
 Using Turtle in python
-# Mandelbrot Set 1
+# Mandelbrot Set 4
 Using file handling in python
